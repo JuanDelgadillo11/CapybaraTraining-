@@ -1,0 +1,3 @@
+cucumber --tags @tcs1
+cucumber --tags @tcui4
+cucumber --tags @tcs1 -f html -o reportSmokeTestingResult.html
